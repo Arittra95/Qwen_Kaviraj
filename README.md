@@ -26,6 +26,8 @@ python app.py
 ```
 
 ## Attributions:
+
 Datasets were collected from: 
+
 https://github.com/sciencewithsaucee-sudo
 https://www.kaggle.com/datasets/kagglekirti123/ayurgenixai-ayurvedic-dataset
