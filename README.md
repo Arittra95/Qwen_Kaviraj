@@ -19,7 +19,7 @@ A **Bengali Ayurvedic RAG Chatbot** fine-tuned on `Qwen2.5-7B-Instruct` and grou
 
 ## 🛠️ Local Setup
 ```bash
-#git clone https://github.com/YOUR_USERNAME/kobiraj-rag-chatbot.git
+[#git clone https://github.com/Arittra95/Qwen_Kaviraj.git)
 cd kobiraj-rag-chatbot
 pip install -r requirements.txt
 python app.py
