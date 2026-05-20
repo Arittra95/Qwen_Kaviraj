@@ -23,3 +23,9 @@ git clone https://github.com/Arittra95/Qwen_Kaviraj.git
 cd kobiraj-rag-chatbot
 pip install -r requirements.txt
 python app.py
+```
+
+## Attributions:
+Datasets were collected from: 
+https://github.com/sciencewithsaucee-sudo
+https://www.kaggle.com/datasets/kagglekirti123/ayurgenixai-ayurvedic-dataset
