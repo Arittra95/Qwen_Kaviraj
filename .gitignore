@@ -1,0 +1,9 @@
+cat > .gitignore << 'EOF'
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+*.log
+data/faiss_index/
+EOF
